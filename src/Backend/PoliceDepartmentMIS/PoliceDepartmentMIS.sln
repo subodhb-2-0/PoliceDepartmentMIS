@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Library", "Library", "{D5AA515F-84A8-49BC-AA7D-4659CC27CF46}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{F28CF6B0-BDD5-4ADB-B56F-0374BE4685AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliceDepartmentMIS.API", "PoliceDepartmentMIS.API\PoliceDepartmentMIS.API.csproj", "{08A641A5-4EAF-4196-A195-BA26882A6074}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliceDepartmentMIS.Core", "PoliceDepartmentMIS.Core\PoliceDepartmentMIS.Core.csproj", "{8F72625C-931B-4699-AA62-5041D57F47B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliceDepartmentMIS.Data", "PoliceDepartmentMIS.Data\PoliceDepartmentMIS.Data.csproj", "{3DED077D-805E-4298-9A2D-2E93DAA4DA5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliceDepartmentMIS.Service", "PoliceDepartmentMIS.Service\PoliceDepartmentMIS.Service.csproj", "{A986BF5D-E4A2-4698-9588-302B2B71864D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliceDepartmentMIS.Test", "PoliceDepartmentMIS.Test\PoliceDepartmentMIS.Test.csproj", "{15E074AE-4F6A-48CD-8E1D-83AFE13B4A40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08A641A5-4EAF-4196-A195-BA26882A6074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A641A5-4EAF-4196-A195-BA26882A6074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A641A5-4EAF-4196-A195-BA26882A6074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A641A5-4EAF-4196-A195-BA26882A6074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F72625C-931B-4699-AA62-5041D57F47B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F72625C-931B-4699-AA62-5041D57F47B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F72625C-931B-4699-AA62-5041D57F47B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F72625C-931B-4699-AA62-5041D57F47B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DED077D-805E-4298-9A2D-2E93DAA4DA5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DED077D-805E-4298-9A2D-2E93DAA4DA5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DED077D-805E-4298-9A2D-2E93DAA4DA5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DED077D-805E-4298-9A2D-2E93DAA4DA5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A986BF5D-E4A2-4698-9588-302B2B71864D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A986BF5D-E4A2-4698-9588-302B2B71864D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A986BF5D-E4A2-4698-9588-302B2B71864D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A986BF5D-E4A2-4698-9588-302B2B71864D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E074AE-4F6A-48CD-8E1D-83AFE13B4A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E074AE-4F6A-48CD-8E1D-83AFE13B4A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E074AE-4F6A-48CD-8E1D-83AFE13B4A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E074AE-4F6A-48CD-8E1D-83AFE13B4A40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8F72625C-931B-4699-AA62-5041D57F47B6} = {D5AA515F-84A8-49BC-AA7D-4659CC27CF46}
+		{3DED077D-805E-4298-9A2D-2E93DAA4DA5D} = {D5AA515F-84A8-49BC-AA7D-4659CC27CF46}
+		{A986BF5D-E4A2-4698-9588-302B2B71864D} = {D5AA515F-84A8-49BC-AA7D-4659CC27CF46}
+		{15E074AE-4F6A-48CD-8E1D-83AFE13B4A40} = {F28CF6B0-BDD5-4ADB-B56F-0374BE4685AA}
+	EndGlobalSection
+EndGlobal

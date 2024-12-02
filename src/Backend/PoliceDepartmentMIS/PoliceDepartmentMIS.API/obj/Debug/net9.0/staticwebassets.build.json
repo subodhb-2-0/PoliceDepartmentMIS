@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "hGFREhnCYkUFY13vWlcT7B1gi3PIp2xZjrbdgv5VkuU=",
+  "Source": "PoliceDepartmentMIS.API",
+  "BasePath": "_content/PoliceDepartmentMIS.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

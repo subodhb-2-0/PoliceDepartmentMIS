@@ -1,0 +1,791 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\PoliceDepartmentMIS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15E074AE-4F6A-48CD-8E1D-83AFE13B4A40}|PoliceDepartmentMIS.Test\\PoliceDepartmentMIS.Test.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.test\\applicationusertest\\applicationuserservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E074AE-4F6A-48CD-8E1D-83AFE13B4A40}|PoliceDepartmentMIS.Test\\PoliceDepartmentMIS.Test.csproj|solutionrelative:policedepartmentmis.test\\applicationusertest\\applicationuserservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A986BF5D-E4A2-4698-9588-302B2B71864D}|PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.service\\services\\applicationuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A986BF5D-E4A2-4698-9588-302B2B71864D}|PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj|solutionrelative:policedepartmentmis.service\\services\\applicationuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A641A5-4EAF-4196-A195-BA26882A6074}|PoliceDepartmentMIS.API\\PoliceDepartmentMIS.API.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.api\\controllers\\applicationusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A641A5-4EAF-4196-A195-BA26882A6074}|PoliceDepartmentMIS.API\\PoliceDepartmentMIS.API.csproj|solutionrelative:policedepartmentmis.api\\controllers\\applicationusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.core\\dtos\\applicationuser\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|solutionrelative:policedepartmentmis.core\\dtos\\applicationuser\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E074AE-4F6A-48CD-8E1D-83AFE13B4A40}|PoliceDepartmentMIS.Test\\PoliceDepartmentMIS.Test.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.test\\applicationusertest\\bookingservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E074AE-4F6A-48CD-8E1D-83AFE13B4A40}|PoliceDepartmentMIS.Test\\PoliceDepartmentMIS.Test.csproj|solutionrelative:policedepartmentmis.test\\applicationusertest\\bookingservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E074AE-4F6A-48CD-8E1D-83AFE13B4A40}|PoliceDepartmentMIS.Test\\PoliceDepartmentMIS.Test.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.test\\applicationusertest\\inmatesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E074AE-4F6A-48CD-8E1D-83AFE13B4A40}|PoliceDepartmentMIS.Test\\PoliceDepartmentMIS.Test.csproj|solutionrelative:policedepartmentmis.test\\applicationusertest\\inmatesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A641A5-4EAF-4196-A195-BA26882A6074}|PoliceDepartmentMIS.API\\PoliceDepartmentMIS.API.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.api\\middlewares\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A641A5-4EAF-4196-A195-BA26882A6074}|PoliceDepartmentMIS.API\\PoliceDepartmentMIS.API.csproj|solutionrelative:policedepartmentmis.api\\middlewares\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.core\\dtos\\inmates\\inmateresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|solutionrelative:policedepartmentmis.core\\dtos\\inmates\\inmateresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A986BF5D-E4A2-4698-9588-302B2B71864D}|PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.service\\dependency\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A986BF5D-E4A2-4698-9588-302B2B71864D}|PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj|solutionrelative:policedepartmentmis.service\\dependency\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A986BF5D-E4A2-4698-9588-302B2B71864D}|PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.service\\helper\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A986BF5D-E4A2-4698-9588-302B2B71864D}|PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj|solutionrelative:policedepartmentmis.service\\helper\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A986BF5D-E4A2-4698-9588-302B2B71864D}|PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.service\\services\\interfaces\\iapplicationuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A986BF5D-E4A2-4698-9588-302B2B71864D}|PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj|solutionrelative:policedepartmentmis.service\\services\\interfaces\\iapplicationuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.core\\interfaces\\iapplicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|solutionrelative:policedepartmentmis.core\\interfaces\\iapplicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E074AE-4F6A-48CD-8E1D-83AFE13B4A40}|PoliceDepartmentMIS.Test\\PoliceDepartmentMIS.Test.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.test\\policedepartmentmis.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15E074AE-4F6A-48CD-8E1D-83AFE13B4A40}|PoliceDepartmentMIS.Test\\PoliceDepartmentMIS.Test.csproj|solutionrelative:policedepartmentmis.test\\policedepartmentmis.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A986BF5D-E4A2-4698-9588-302B2B71864D}|PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.service\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A986BF5D-E4A2-4698-9588-302B2B71864D}|PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj|solutionrelative:policedepartmentmis.service\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A641A5-4EAF-4196-A195-BA26882A6074}|PoliceDepartmentMIS.API\\PoliceDepartmentMIS.API.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A641A5-4EAF-4196-A195-BA26882A6074}|PoliceDepartmentMIS.API\\PoliceDepartmentMIS.API.csproj|solutionrelative:policedepartmentmis.api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DED077D-805E-4298-9A2D-2E93DAA4DA5D}|PoliceDepartmentMIS.Data\\PoliceDepartmentMIS.Data.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.data\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DED077D-805E-4298-9A2D-2E93DAA4DA5D}|PoliceDepartmentMIS.Data\\PoliceDepartmentMIS.Data.csproj|solutionrelative:policedepartmentmis.data\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.core\\dtos\\booking\\bookingresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|solutionrelative:policedepartmentmis.core\\dtos\\booking\\bookingresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DED077D-805E-4298-9A2D-2E93DAA4DA5D}|PoliceDepartmentMIS.Data\\PoliceDepartmentMIS.Data.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.data\\repositories\\inmatesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DED077D-805E-4298-9A2D-2E93DAA4DA5D}|PoliceDepartmentMIS.Data\\PoliceDepartmentMIS.Data.csproj|solutionrelative:policedepartmentmis.data\\repositories\\inmatesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.core\\dtos\\booking\\bookingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|solutionrelative:policedepartmentmis.core\\dtos\\booking\\bookingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.core\\dtos\\inmates\\inmaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|solutionrelative:policedepartmentmis.core\\dtos\\inmates\\inmaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.core\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|solutionrelative:policedepartmentmis.core\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A986BF5D-E4A2-4698-9588-302B2B71864D}|PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.service\\services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A986BF5D-E4A2-4698-9588-302B2B71864D}|PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj|solutionrelative:policedepartmentmis.service\\services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A641A5-4EAF-4196-A195-BA26882A6074}|PoliceDepartmentMIS.API\\PoliceDepartmentMIS.API.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.api\\controllers\\inmatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A641A5-4EAF-4196-A195-BA26882A6074}|PoliceDepartmentMIS.API\\PoliceDepartmentMIS.API.csproj|solutionrelative:policedepartmentmis.api\\controllers\\inmatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.core\\dtos\\inmates\\inmategetallresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|solutionrelative:policedepartmentmis.core\\dtos\\inmates\\inmategetallresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DED077D-805E-4298-9A2D-2E93DAA4DA5D}|PoliceDepartmentMIS.Data\\PoliceDepartmentMIS.Data.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.data\\repositories\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DED077D-805E-4298-9A2D-2E93DAA4DA5D}|PoliceDepartmentMIS.Data\\PoliceDepartmentMIS.Data.csproj|solutionrelative:policedepartmentmis.data\\repositories\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A641A5-4EAF-4196-A195-BA26882A6074}|PoliceDepartmentMIS.API\\PoliceDepartmentMIS.API.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A641A5-4EAF-4196-A195-BA26882A6074}|PoliceDepartmentMIS.API\\PoliceDepartmentMIS.API.csproj|solutionrelative:policedepartmentmis.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.core\\dtos\\applicationuser\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|solutionrelative:policedepartmentmis.core\\dtos\\applicationuser\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A641A5-4EAF-4196-A195-BA26882A6074}|PoliceDepartmentMIS.API\\PoliceDepartmentMIS.API.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.api\\policedepartmentmis.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{08A641A5-4EAF-4196-A195-BA26882A6074}|PoliceDepartmentMIS.API\\PoliceDepartmentMIS.API.csproj|solutionrelative:policedepartmentmis.api\\policedepartmentmis.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.core\\dtos\\common\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|solutionrelative:policedepartmentmis.core\\dtos\\common\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A641A5-4EAF-4196-A195-BA26882A6074}|PoliceDepartmentMIS.API\\PoliceDepartmentMIS.API.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A641A5-4EAF-4196-A195-BA26882A6074}|PoliceDepartmentMIS.API\\PoliceDepartmentMIS.API.csproj|solutionrelative:policedepartmentmis.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.core\\dtos\\common\\getalllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|solutionrelative:policedepartmentmis.core\\dtos\\common\\getalllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A986BF5D-E4A2-4698-9588-302B2B71864D}|PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.service\\services\\interfaces\\iinmatesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A986BF5D-E4A2-4698-9588-302B2B71864D}|PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj|solutionrelative:policedepartmentmis.service\\services\\interfaces\\iinmatesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A641A5-4EAF-4196-A195-BA26882A6074}|PoliceDepartmentMIS.API\\PoliceDepartmentMIS.API.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08A641A5-4EAF-4196-A195-BA26882A6074}|PoliceDepartmentMIS.API\\PoliceDepartmentMIS.API.csproj|solutionrelative:policedepartmentmis.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.core\\dtos\\common\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|solutionrelative:policedepartmentmis.core\\dtos\\common\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.core\\domain\\inmates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|solutionrelative:policedepartmentmis.core\\domain\\inmates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.core\\domain\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|solutionrelative:policedepartmentmis.core\\domain\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A641A5-4EAF-4196-A195-BA26882A6074}|PoliceDepartmentMIS.API\\PoliceDepartmentMIS.API.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A641A5-4EAF-4196-A195-BA26882A6074}|PoliceDepartmentMIS.API\\PoliceDepartmentMIS.API.csproj|solutionrelative:policedepartmentmis.api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A641A5-4EAF-4196-A195-BA26882A6074}|PoliceDepartmentMIS.API\\PoliceDepartmentMIS.API.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08A641A5-4EAF-4196-A195-BA26882A6074}|PoliceDepartmentMIS.API\\PoliceDepartmentMIS.API.csproj|solutionrelative:policedepartmentmis.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A986BF5D-E4A2-4698-9588-302B2B71864D}|PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.service\\helper\\interface\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A986BF5D-E4A2-4698-9588-302B2B71864D}|PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj|solutionrelative:policedepartmentmis.service\\helper\\interface\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A986BF5D-E4A2-4698-9588-302B2B71864D}|PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.service\\config\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A986BF5D-E4A2-4698-9588-302B2B71864D}|PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj|solutionrelative:policedepartmentmis.service\\config\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DED077D-805E-4298-9A2D-2E93DAA4DA5D}|PoliceDepartmentMIS.Data\\PoliceDepartmentMIS.Data.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.data\\dependency\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DED077D-805E-4298-9A2D-2E93DAA4DA5D}|PoliceDepartmentMIS.Data\\PoliceDepartmentMIS.Data.csproj|solutionrelative:policedepartmentmis.data\\dependency\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A986BF5D-E4A2-4698-9588-302B2B71864D}|PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.service\\policedepartmentmis.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A986BF5D-E4A2-4698-9588-302B2B71864D}|PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj|solutionrelative:policedepartmentmis.service\\policedepartmentmis.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DED077D-805E-4298-9A2D-2E93DAA4DA5D}|PoliceDepartmentMIS.Data\\PoliceDepartmentMIS.Data.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.data\\config\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DED077D-805E-4298-9A2D-2E93DAA4DA5D}|PoliceDepartmentMIS.Data\\PoliceDepartmentMIS.Data.csproj|solutionrelative:policedepartmentmis.data\\config\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A986BF5D-E4A2-4698-9588-302B2B71864D}|PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.service\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A986BF5D-E4A2-4698-9588-302B2B71864D}|PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj|solutionrelative:policedepartmentmis.service\\helper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DED077D-805E-4298-9A2D-2E93DAA4DA5D}|PoliceDepartmentMIS.Data\\PoliceDepartmentMIS.Data.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.data\\policedepartmentmis.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3DED077D-805E-4298-9A2D-2E93DAA4DA5D}|PoliceDepartmentMIS.Data\\PoliceDepartmentMIS.Data.csproj|solutionrelative:policedepartmentmis.data\\policedepartmentmis.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.core\\domain\\base\\ideletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|solutionrelative:policedepartmentmis.core\\domain\\base\\ideletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.core\\domain\\base\\iauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|solutionrelative:policedepartmentmis.core\\domain\\base\\iauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|d:\\project\\policedepartmentmis\\policedepartmentmis.core\\policedepartmentmis.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F72625C-931B-4699-AA62-5041D57F47B6}|PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj|solutionrelative:policedepartmentmis.core\\policedepartmentmis.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUserService.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Service\\Services\\ApplicationUserService.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Service\\Services\\ApplicationUserService.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Service\\Services\\ApplicationUserService.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Service\\Services\\ApplicationUserService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:55:27.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InmateResponseDto.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Dtos\\Inmates\\InmateResponseDto.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Core\\Dtos\\Inmates\\InmateResponseDto.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Dtos\\Inmates\\InmateResponseDto.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Core\\Dtos\\Inmates\\InmateResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:14:04.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Service\\Helper\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Service\\Helper\\JwtTokenGenerator.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Service\\Helper\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Service\\Helper\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAApwBIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:23:21.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PoliceDepartmentMIS.Test.csproj",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Test\\PoliceDepartmentMIS.Test.csproj",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Test\\PoliceDepartmentMIS.Test.csproj",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Test\\PoliceDepartmentMIS.Test.csproj",
+              "RelativeToolTip": "PoliceDepartmentMIS.Test\\PoliceDepartmentMIS.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T08:14:48.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationUserServiceTest.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Test\\ApplicationUserTest\\ApplicationUserServiceTest.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Test\\ApplicationUserTest\\ApplicationUserServiceTest.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Test\\ApplicationUserTest\\ApplicationUserServiceTest.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Test\\ApplicationUserTest\\ApplicationUserServiceTest.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:20:15.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingServiceTest.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Test\\ApplicationUserTest\\BookingServiceTest.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Test\\ApplicationUserTest\\BookingServiceTest.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Test\\ApplicationUserTest\\BookingServiceTest.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Test\\ApplicationUserTest\\BookingServiceTest.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAACYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:08:45.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUserController.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.API\\Controllers\\ApplicationUserController.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.API\\Controllers\\ApplicationUserController.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.API\\Controllers\\ApplicationUserController.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.API\\Controllers\\ApplicationUserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:28:36.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Dtos\\ApplicationUser\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Core\\Dtos\\ApplicationUser\\UserRegisterDto.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Dtos\\ApplicationUser\\UserRegisterDto.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Core\\Dtos\\ApplicationUser\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:19:49.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InmatesServiceTest.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Test\\ApplicationUserTest\\InmatesServiceTest.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Test\\ApplicationUserTest\\InmatesServiceTest.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Test\\ApplicationUserTest\\InmatesServiceTest.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Test\\ApplicationUserTest\\InmatesServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:19:56.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.API\\Middlewares\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.API\\Middlewares\\JwtMiddleware.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.API\\Middlewares\\JwtMiddleware.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.API\\Middlewares\\JwtMiddleware.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:51:14.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Service\\Dependency\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Service\\Dependency\\DependencyInjection.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Service\\Dependency\\DependencyInjection.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Service\\Dependency\\DependencyInjection.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:26:10.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IApplicationUserRepository.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Interfaces\\IApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Core\\Interfaces\\IApplicationUserRepository.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Interfaces\\IApplicationUserRepository.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Core\\Interfaces\\IApplicationUserRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAvwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:18:18.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IApplicationUserService.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Service\\Services\\Interfaces\\IApplicationUserService.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Service\\Services\\Interfaces\\IApplicationUserService.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Service\\Services\\Interfaces\\IApplicationUserService.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Service\\Services\\Interfaces\\IApplicationUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:58:23.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Service\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Service\\Services\\BookingService.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Service\\Services\\BookingService.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Service\\Services\\BookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:50:04.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.API\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.API\\Controllers\\BookingController.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.API\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.API\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwDkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:29:12.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookingRequestDto.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Dtos\\Booking\\BookingRequestDto.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Core\\Dtos\\Booking\\BookingRequestDto.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Dtos\\Booking\\BookingRequestDto.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Core\\Dtos\\Booking\\BookingRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:09:40.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InmateRequestDto.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Dtos\\Inmates\\InmateRequestDto.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Core\\Dtos\\Inmates\\InmateRequestDto.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Dtos\\Inmates\\InmateRequestDto.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Core\\Dtos\\Inmates\\InmateRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:13:34.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Data\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Data\\Repositories\\BookingRepository.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Data\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Data\\Repositories\\BookingRepository.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAowI4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:00:23.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InmatesRepository.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Data\\Repositories\\InmatesRepository.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Data\\Repositories\\InmatesRepository.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Data\\Repositories\\InmatesRepository.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Data\\Repositories\\InmatesRepository.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwE0AAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:54:42.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookingResponseDto.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Dtos\\Booking\\BookingResponseDto.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Core\\Dtos\\Booking\\BookingResponseDto.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Dtos\\Booking\\BookingResponseDto.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Core\\Dtos\\Booking\\BookingResponseDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:10:56.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Service\\Services\\Interfaces\\IBookingService.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Service\\Services\\Interfaces\\IBookingService.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Service\\Services\\Interfaces\\IBookingService.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Service\\Services\\Interfaces\\IBookingService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAApwAsAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:33:42.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Interfaces\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Core\\Interfaces\\IBookingRepository.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Interfaces\\IBookingRepository.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Core\\Interfaces\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:08:02.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InmatesController.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.API\\Controllers\\InmatesController.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.API\\Controllers\\InmatesController.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.API\\Controllers\\InmatesController.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.API\\Controllers\\InmatesController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:29:35.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InmateGetAllResponseDto.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Dtos\\Inmates\\InmateGetAllResponseDto.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Core\\Dtos\\Inmates\\InmateGetAllResponseDto.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Dtos\\Inmates\\InmateGetAllResponseDto.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Core\\Dtos\\Inmates\\InmateGetAllResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:47:24.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.API\\Program.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.API\\Program.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.API\\Program.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.API\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:30:54.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationUserRepository.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Data\\Repositories\\ApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Data\\Repositories\\ApplicationUserRepository.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Data\\Repositories\\ApplicationUserRepository.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Data\\Repositories\\ApplicationUserRepository.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAA9wGcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:54:26.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Dtos\\ApplicationUser\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Core\\Dtos\\ApplicationUser\\UserLoginDto.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Dtos\\ApplicationUser\\UserLoginDto.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Core\\Dtos\\ApplicationUser\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:21:25.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PoliceDepartmentMIS.API.csproj",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.API\\PoliceDepartmentMIS.API.csproj",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.API\\PoliceDepartmentMIS.API.csproj",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.API\\PoliceDepartmentMIS.API.csproj",
+              "RelativeToolTip": "PoliceDepartmentMIS.API\\PoliceDepartmentMIS.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T14:48:21.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Dtos\\Common\\Response.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Core\\Dtos\\Common\\Response.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Dtos\\Common\\Response.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Core\\Dtos\\Common\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:42:33.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.API\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.API\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.API\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.API\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:54:04.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetAllList.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Dtos\\Common\\GetAllList.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Core\\Dtos\\Common\\GetAllList.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Dtos\\Common\\GetAllList.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Core\\Dtos\\Common\\GetAllList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:15:39.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IInmatesService.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Service\\Services\\Interfaces\\IInmatesService.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Service\\Services\\Interfaces\\IInmatesService.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Service\\Services\\Interfaces\\IInmatesService.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Service\\Services\\Interfaces\\IInmatesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:01:54.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.API\\appsettings.json",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.API\\appsettings.json",
+              "RelativeToolTip": "PoliceDepartmentMIS.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T05:19:56.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FilterDto.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Dtos\\Common\\FilterDto.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Core\\Dtos\\Common\\FilterDto.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Dtos\\Common\\FilterDto.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Core\\Dtos\\Common\\FilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:03:06.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Inmates.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Domain\\Inmates.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Core\\Domain\\Inmates.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Domain\\Inmates.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Core\\Domain\\Inmates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:01:26.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Domain\\Booking.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Core\\Domain\\Booking.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Domain\\Booking.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Core\\Domain\\Booking.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:16:56.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.API\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:15:46.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.API\\appsettings.Development.json",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.API\\appsettings.Development.json",
+              "RelativeToolTip": "PoliceDepartmentMIS.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T17:45:37.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Service\\Config\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Service\\Config\\JwtSettings.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Service\\Config\\JwtSettings.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Service\\Config\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:13:04.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IJwtTokenGenerator.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Service\\Helper\\Interface\\IJwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Service\\Helper\\Interface\\IJwtTokenGenerator.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Service\\Helper\\Interface\\IJwtTokenGenerator.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Service\\Helper\\Interface\\IJwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:22:16.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Data\\Dependency\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Data\\Dependency\\DependencyInjection.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Data\\Dependency\\DependencyInjection.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Data\\Dependency\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:17:55.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PoliceDepartmentMIS.Service.csproj",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj",
+              "RelativeToolTip": "PoliceDepartmentMIS.Service\\PoliceDepartmentMIS.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T14:47:55.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ConnectionString.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Data\\Config\\ConnectionString.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Data\\Config\\ConnectionString.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Data\\Config\\ConnectionString.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Data\\Config\\ConnectionString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:43:25.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Service\\Helper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Service\\Helper\\MappingProfile.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Service\\Helper\\MappingProfile.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Service\\Helper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:37:08.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PoliceDepartmentMIS.Data.csproj",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Data\\PoliceDepartmentMIS.Data.csproj",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Data\\PoliceDepartmentMIS.Data.csproj",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Data\\PoliceDepartmentMIS.Data.csproj",
+              "RelativeToolTip": "PoliceDepartmentMIS.Data\\PoliceDepartmentMIS.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T14:48:04.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IDeletable.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Domain\\Base\\IDeletable.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Core\\Domain\\Base\\IDeletable.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Domain\\Base\\IDeletable.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Core\\Domain\\Base\\IDeletable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:58:31.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IAuditable.cs",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Domain\\Base\\IAuditable.cs",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Core\\Domain\\Base\\IAuditable.cs",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\Domain\\Base\\IAuditable.cs",
+              "RelativeToolTip": "PoliceDepartmentMIS.Core\\Domain\\Base\\IAuditable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:54:38.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PoliceDepartmentMIS.Core.csproj",
+              "DocumentMoniker": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj",
+              "RelativeDocumentMoniker": "PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj",
+              "ToolTip": "D:\\Project\\PoliceDepartmentMIS\\PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj",
+              "RelativeToolTip": "PoliceDepartmentMIS.Core\\PoliceDepartmentMIS.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T14:48:08.927Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

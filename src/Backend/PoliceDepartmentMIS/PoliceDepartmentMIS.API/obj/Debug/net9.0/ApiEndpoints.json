@@ -1,0 +1,286 @@
+[
+  {
+    "ContainingType": "PoliceDepartmentMIS.API.Controllers.ApplicationUserController",
+    "Method": "AuthenticateAsync",
+    "RelativePath": "api/ApplicationUser/AuthenticateAsync",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "PoliceDepartmentMIS.Core.Dtos.ApplicationUser.UserLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PoliceDepartmentMIS.API.Controllers.ApplicationUserController",
+    "Method": "GetUserByIdAsync",
+    "RelativePath": "api/ApplicationUser/GetUserByIdAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PoliceDepartmentMIS.API.Controllers.ApplicationUserController",
+    "Method": "RegisterAsync",
+    "RelativePath": "api/ApplicationUser/RegisterAsync",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "PoliceDepartmentMIS.Core.Dtos.ApplicationUser.UserRegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PoliceDepartmentMIS.API.Controllers.BookingController",
+    "Method": "DeleteBooking",
+    "RelativePath": "api/Booking/DeleteBooking/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PoliceDepartmentMIS.API.Controllers.BookingController",
+    "Method": "GetBookings",
+    "RelativePath": "api/Booking/GetAllBookings",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "SearchByColumn",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SearchValue",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "OrderByColumn",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "OrderBy",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PoliceDepartmentMIS.API.Controllers.BookingController",
+    "Method": "GetBookingByEmployeeId",
+    "RelativePath": "api/Booking/GetBookingByEmployeeId/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PoliceDepartmentMIS.API.Controllers.BookingController",
+    "Method": "GetBookingById",
+    "RelativePath": "api/Booking/GetBookingById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PoliceDepartmentMIS.API.Controllers.BookingController",
+    "Method": "InsertBooking",
+    "RelativePath": "api/Booking/InsertBooking",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "booking",
+        "Type": "PoliceDepartmentMIS.Core.Dtos.Booking.BookingRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PoliceDepartmentMIS.API.Controllers.BookingController",
+    "Method": "UpdateBooking",
+    "RelativePath": "api/Booking/UpdateBooking/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "booking",
+        "Type": "PoliceDepartmentMIS.Core.Dtos.Booking.BookingRequestDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PoliceDepartmentMIS.API.Controllers.InmatesController",
+    "Method": "DeleteInmates",
+    "RelativePath": "api/Inmates/DeleteInamte/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PoliceDepartmentMIS.API.Controllers.InmatesController",
+    "Method": "GetInmates",
+    "RelativePath": "api/Inmates/GetAllInmates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "SearchByColumn",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SearchValue",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "OrderByColumn",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "OrderBy",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PoliceDepartmentMIS.API.Controllers.InmatesController",
+    "Method": "GetInmateById",
+    "RelativePath": "api/Inmates/GetInmateById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PoliceDepartmentMIS.API.Controllers.InmatesController",
+    "Method": "InsertInmates",
+    "RelativePath": "api/Inmates/InsertInmates",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "inmate",
+        "Type": "PoliceDepartmentMIS.Core.Dtos.Inmates.InmateRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PoliceDepartmentMIS.API.Controllers.InmatesController",
+    "Method": "UpdateInmates",
+    "RelativePath": "api/Inmates/UpdateInamtes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "inmate",
+        "Type": "PoliceDepartmentMIS.Core.Dtos.Inmates.InmateRequestDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

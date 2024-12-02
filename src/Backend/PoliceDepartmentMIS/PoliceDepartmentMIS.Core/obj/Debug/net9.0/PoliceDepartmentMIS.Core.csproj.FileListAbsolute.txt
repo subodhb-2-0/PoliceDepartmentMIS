@@ -1,0 +1,12 @@
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Core\bin\Debug\net9.0\PoliceDepartmentMIS.Core.deps.json
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Core\bin\Debug\net9.0\PoliceDepartmentMIS.Core.dll
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Core\bin\Debug\net9.0\PoliceDepartmentMIS.Core.pdb
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Core\obj\Debug\net9.0\PoliceDepartmentMIS.Core.csproj.AssemblyReference.cache
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Core\obj\Debug\net9.0\PoliceDepartmentMIS.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Core\obj\Debug\net9.0\PoliceDepartmentMIS.Core.AssemblyInfoInputs.cache
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Core\obj\Debug\net9.0\PoliceDepartmentMIS.Core.AssemblyInfo.cs
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Core\obj\Debug\net9.0\PoliceDepartmentMIS.Core.csproj.CoreCompileInputs.cache
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Core\obj\Debug\net9.0\PoliceDepartmentMIS.Core.dll
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Core\obj\Debug\net9.0\refint\PoliceDepartmentMIS.Core.dll
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Core\obj\Debug\net9.0\PoliceDepartmentMIS.Core.pdb
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Core\obj\Debug\net9.0\ref\PoliceDepartmentMIS.Core.dll

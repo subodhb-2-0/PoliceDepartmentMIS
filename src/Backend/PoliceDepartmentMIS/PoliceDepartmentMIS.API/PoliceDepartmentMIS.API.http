@@ -1,0 +1,6 @@
+@PoliceDepartmentMIS.API_HostAddress = http://localhost:5239
+
+GET {{PoliceDepartmentMIS.API_HostAddress}}/Booking/GetAllBookings
+Accept: application/json
+
+###

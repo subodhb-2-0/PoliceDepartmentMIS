@@ -1,0 +1,15 @@
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Service\bin\Debug\net9.0\PoliceDepartmentMIS.Service.deps.json
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Service\bin\Debug\net9.0\PoliceDepartmentMIS.Service.dll
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Service\bin\Debug\net9.0\PoliceDepartmentMIS.Service.pdb
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Service\bin\Debug\net9.0\PoliceDepartmentMIS.Core.dll
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Service\bin\Debug\net9.0\PoliceDepartmentMIS.Core.pdb
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Service\obj\Debug\net9.0\PoliceDepartmentMIS.Service.csproj.AssemblyReference.cache
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Service\obj\Debug\net9.0\PoliceDepartmentMIS.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Service\obj\Debug\net9.0\PoliceDepartmentMIS.Service.AssemblyInfoInputs.cache
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Service\obj\Debug\net9.0\PoliceDepartmentMIS.Service.AssemblyInfo.cs
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Service\obj\Debug\net9.0\PoliceDepartmentMIS.Service.csproj.CoreCompileInputs.cache
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Service\obj\Debug\net9.0\PoliceDe.C65EBFB1.Up2Date
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Service\obj\Debug\net9.0\PoliceDepartmentMIS.Service.dll
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Service\obj\Debug\net9.0\refint\PoliceDepartmentMIS.Service.dll
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Service\obj\Debug\net9.0\PoliceDepartmentMIS.Service.pdb
+D:\Project\PoliceDepartmentMIS\PoliceDepartmentMIS.Service\obj\Debug\net9.0\ref\PoliceDepartmentMIS.Service.dll
